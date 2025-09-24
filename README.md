@@ -1,41 +1,74 @@
-# \[ SYSTEM LOG : PERITIA ]
+# [ SYSTEM LOG : PERITIA ]
 
-**STATUS:**  Online (uptime: 21y)
-**PRONOUNS:** they/them
-**OS:** NixOS
-**ROLE:** Maker of **NixOS-95** & **Nyx-Tools**
-**LINKED WITH:** [@Dulcis_Forge](https://github.com/DulcisForge)
-
----
-
-## \[ PACKAGES ]
-
-* **System / Dev:** Linux 6.x, NixOS && Docker
-* **Languages:** Python, Bash/Zsh/Fish, PowerShell, Nix
-* **Projects:** Proxmox migration, Game servers (MC), Jellyfin, Kasm, Nextcloud, Pi-hole, VPN, NixOS-95 (Win95-styled desktop)
+| CATEGORY  | Value                                   |
+|-----------|-----------------------------------------|
+| UPTIME    | 21y                                     |
+| PRONOUNS  | they/them                               |
+| UID       | 1000(peritia)                           |
+| GID       | 10(wheel), 100(users), 44(video), 5(games) |
+| SHELL     | zsh                                     |
+| Link      | [@Dulcis_Forge](https://github.com/DulcisForge) <fiancé> |    
 
 ---
 
-## \[ COMPETENCIES ]
+## [ PACKAGES ]
 
-* **Servers:** NixOS, Debian, Arch, Gentoo, Windows
-* **Infra:** AD, DNS/DHCP, Exchange, WDS
-* **Virtualization:** Proxmox, VMware, Hyper-V
-* **Networking:** VLANs, VPNs, Wireshark, Cisco/FortiGate
-* **Other Tools:** Git, Docker, Markdown, LaTeX
-
----
-
-## \[ NOTES ]
-
-* trapped in terminal, last cmd: `vim` (escape=false)
-* homelab migration ? Proxmox (successfull)
-* caffeine.service missing ?
-* consensus: *automation > everything*
+ ├─ System      : Linux 6.x, NixOS  
+ ├─ Languages   : Python, Bash, PowerShell, Nix  
+ ├─ Projects    : Proxmox Cluster, Game Server Hosting  
+ └─ OTHER       : [NixOS-95](https://github.com/Peritia-System/NixOS-95) && [Nyx-Tools](https://github.com/Peritia-System/Nyx-Tools)  
 
 ---
 
-## \[ LINKS ]
+## [ DOCKER ]
+```docker
+CONTAINER ID   NAME        STATUS
+a1b2c3d4e5f6   jellyfin    Up (healthy)  
+b2c3d4e5f6g7   kasm        Up (running)  
+c3d4e5f6g7h8   nextcloud   Up (running)  
+d4e5f6g7h8i9   pihole      Up (running)  
+e5f6g7h8i9j0   vpn         Up (running)  
+```
 
-? **Email:** [peritia@peritia.system](mailto:peritia@peritia.system)
-? **Discord:** peritia\_system
+## [ SERVICES ]
+```systemD
+ ● motivation.service        active (running)  
+ ● autonomy.service          active (running)  
+ ● analysis.service          active (running)  
+ ● language.german.service   active (running)  
+ ● language.english.service  active (running)  
+
+ ✗ caffeine.service          not found  
+```
+
+---
+
+## [ COMPETENCIES ]
+```ls
+700 admin:user  Servers        -> NixOS  Debian  Arch  Gentoo  Windows  
+764 admin:user  Infrastructure -> AD  DNS/DHCP  Exchange  WDS  
+700 admin:user  Virtualization -> Proxmox  VMware  Hyper-V  
+744 admin:user  Networking     -> VLANs  VPNs  Cisco/FortiGate  
+744 admin:user  Tooling        -> Git  Docker  Markdown  LaTeX  
+```
+
+---
+
+## [ NOTES ]
+```dmsg
+ [INFO] migration complete: Proxmox cluster healthy  
+ [CONSENSUS] automation > everything  
+ [ERROR] trapped in terminal, last cmd: vim (escape=false)  
+```
+
+---
+
+## [ CONTACT ]
+```log
+tcp   LISTEN   0   128   ::email        peritia@peritia.system  
+tcp   ESTAB    0   128   ::discord      peritia_system  
+tcp   ESTAB    0   128   ::matrix       @peritia:matrix.org  
+```
+---
+
+
