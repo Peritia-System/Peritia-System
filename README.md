@@ -1,14 +1,41 @@
-# 👋 Hi, I’m @Peritia-System
+# \[ SYSTEM LOG : PERITIA ]
 
-- 👀 I’m interested in **Linux** and **games**
-- 🌱 Currently learning **Nix**
-- 💞️ Open to collaborating on **anything Linux or Nix related**
-- 📫 Reach me via email: **peritia@peritia.system**
-- 😄 Pronouns: **they/them**
-- ⚡ Fun fact: _“The only way to actually have a private system is to do it yourself.”_
+**STATUS:**  Online (uptime: 21y)
+**PRONOUNS:** they/them
+**OS:** NixOS
+**ROLE:** Maker of **NixOS-95** & **Nyx-Tools**
+**LINKED WITH:** [@Dulcis_Forge](https://github.com/DulcisForge)
 
+---
 
-<!---
-Peritia-System/Peritia-System is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## \[ PACKAGES ]
+
+* **System / Dev:** Linux 6.x, NixOS && Docker
+* **Languages:** Python, Bash/Zsh/Fish, PowerShell, Nix
+* **Projects:** Proxmox migration, Game servers (MC), Jellyfin, Kasm, Nextcloud, Pi-hole, VPN, NixOS-95 (Win95-styled desktop)
+
+---
+
+## \[ COMPETENCIES ]
+
+* **Servers:** NixOS, Debian, Arch, Gentoo, Windows
+* **Infra:** AD, DNS/DHCP, Exchange, WDS
+* **Virtualization:** Proxmox, VMware, Hyper-V
+* **Networking:** VLANs, VPNs, Wireshark, Cisco/FortiGate
+* **Other Tools:** Git, Docker, Markdown, LaTeX
+
+---
+
+## \[ NOTES ]
+
+* trapped in terminal, last cmd: `vim` (escape=false)
+* homelab migration ? Proxmox (successfull)
+* caffeine.service missing ?
+* consensus: *automation > everything*
+
+---
+
+## \[ LINKS ]
+
+? **Email:** [peritia@peritia.system](mailto:peritia@peritia.system)
+? **Discord:** peritia\_system
