@@ -65,9 +65,10 @@ e5f6g7h8i9j0   vpn         Up (running)
 
 ## [ CONTACT ]
 ```log
-tcp   LISTEN   0   128   ::email        peritia@peritia.system  
-tcp   ESTAB    0   128   ::discord      peritia_system  
-tcp   ESTAB    0   128   ::matrix       @peritia:matrix.org  
+tcp   LISTEN   0   148   ::email        peritia@peritia.system  
+tcp   ESTAB    0   942   ::discord      peritia_system  
+tcp   ESTAB    0   421   ::matrix       @peritia:matrix.org
+tcp   ESTAB    0   421   ::mastodon     @peritia@alovely.space 
 ```
 ---
 
