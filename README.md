@@ -1,20 +1,40 @@
 # [ SYSTEM LOG : PERITIA ]
 
-| CATEGORY  | Value   |
-|-----------|---------|
-| UPTIME    | 21y     |
-| PRONOUNS  | they/them |
-| SHELL     | zsh     |
-| LINKED    | [@Dulcis_Forge](https://github.com/DulcisForge) <fiancé>  |
+| CATEGORY | Value                                                    |
+| -------- | -------------------------------------------------------- |
+| UPTIME   | 21y                                                      |
+| PRONOUNS | they/them                                                |
+| SHELL    | zsh                                                      |
+| LINKED   | [@Dulcis_Forge](https://github.com/DulcisForge) <fiancé> |
 
 ---
 
 ## [ STATUS ]
 
- ● system: online (healthy)  
- ● caffeine.service: not found  
+● system: offline (moved)
+● github.peritia.service: not found
+● git.peritia.service: found → https://git.alovely.space/peritia
 
 ---
 
-[View Full System Log →](./SYSTEM_LOG.md)
+```bash
+###########################
+#   !!!   Warning   !!!   #
+###########################
+
+MIGRATION EVENT DETECTED
+
+Primary forge relocated to:
+
+https://git.alovely.space/peritia
+
+GitHub instances remain online
+but may operate as read-only mirrors.
+
+Status: migration complete
+```
+
+---
+
+[View Full System Log →](https://git.alovely.space/peritia/peritia/src/branch/main/SYSTEM_LOG.md)
 
