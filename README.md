@@ -1,19 +1,19 @@
-# [ SYSTEM LOG : PERITIA ]
-
-| CATEGORY | Value                                                    |
-| -------- | -------------------------------------------------------- |
-| UPTIME   | 21y                                                      |
-| PRONOUNS | they/them                                                |
-| SHELL    | zsh                                                      |
-| LINKED   | [@Dulcis_Forge](https://github.com/DulcisForge) <fiancé> |
+# [ SYSTEM LOG : PERITIA ]  
+  
+| CATEGORY | Value                                                    |  
+| -------- | -------------------------------------------------------- |  
+| UPTIME   | 21y                                                      |  
+| PRONOUNS | they/them                                                |  
+| SHELL    | zsh                                                      |  
+| LINKED   | [@Dulcis_Forge](https://github.com/DulcisForge) <fiancé> |  
 
 ---
 
-## [ STATUS ]
+## [ STATUS ]  
 
-● system: offline (moved)
-● github.peritia.service: not found
-● git.peritia.service: found → https://git.alovely.space/peritia
+● system: offline (moved)  
+● github.peritia.service: not found  
+● git.peritia.service: found → https://git.alovely.space/peritia  
 
 ---
 
