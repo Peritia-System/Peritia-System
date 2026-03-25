@@ -4,10 +4,10 @@
 |-----------|-----------------------------------------|
 | UPTIME    | 21y                                     |
 | PRONOUNS  | they/them                               |
-| UID       | 1000(peritia)                           |
+| UID       | 1008(peritia)                           |
 | GID       | 10(wheel), 100(users), 44(video), 5(games) |
 | SHELL     | zsh                                     |
-| Link      | [@Dulcis_Forge](https://github.com/DulcisForge) <fiancé> |    
+| LINKED   | [@dulcis](https://git.alovely.space/dulcis) <fiancé>     |  
 
 ---
 
