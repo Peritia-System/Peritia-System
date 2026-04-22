@@ -18,5 +18,5 @@
 
 ---
 
-[View Full System Log ->](https://git.alovely.space/peritia/peritia/src/branch/main/SYSTEM_LOG.md)
+[View Full System Log ->](https://git.alovely.space/peritia/.profile/src/branch/main/SYSTEM_LOG.md)
 
