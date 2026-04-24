@@ -72,4 +72,8 @@ tcp   ESTAB     0      42     ::mastodon     # @peritia@alovely.space
 ```
 ---
 
+$ timg https://peritia.space/assets/button.gif  
+[![Peritia Space Button](https://peritia.space/assets/button.gif)](https://peritia.space)
+
+---
 
