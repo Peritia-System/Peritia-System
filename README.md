@@ -16,7 +16,13 @@
 ● xmpp   : peritia@xmpp.alovely.space  
 ● social : [mastodon](https://alovely.space/@peritia)  
 
+
 ---
 
 [View Full System Log ->](https://git.alovely.space/peritia/.profile/src/branch/main/SYSTEM_LOG.md)
+
+---
+
+$ timg https://peritia.space/assets/button.gif  
+[![Peritia Space Button](https://peritia.space/assets/button.gif)](https://peritia.space)
 
