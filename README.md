@@ -16,6 +16,13 @@
 ● xmpp   : peritia@xmpp.alovely.space  
 ● social : [mastodon](https://alovely.space/@peritia)  
 
+---
+
+## [ GIT ]
+
+- **[Main](https://git.alovely.space/peritia)**  
+- [Other](./Git.md)
+
 
 ---
 
